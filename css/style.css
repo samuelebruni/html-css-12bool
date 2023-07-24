@@ -1,0 +1,28 @@
+
+[class^=col]{
+    padding: 1px;
+    text-align: center;
+    color: white;
+}
+
+
+
+.debug [class^=card]{
+    background-color: rgb(99, 99, 253);
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mod{
+    background-color: rgb(255, 255, 255);
+    color: rgb(99, 99, 253);
+    width: 95%;
+    height: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
